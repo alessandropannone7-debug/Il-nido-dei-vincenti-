@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="it">
 <head>
 <meta charset="UTF-8">
@@ -57,13 +57,13 @@
 </head>
 <body>
 
-<img src="https://via.placeholder.com/120" alt="Profilo" class="profile-pic">
+<img src="https://drive.google.com/file/d/15BqdSK6byb7oVcx-XoWRYq-lRgfkx37v/view?usp=drivesdk.png" alt="Profilo" class="profile-pic">
 
 <h1>UN ALE QUOTIDIANO</h1>
 <p class="username">@UNALEQUOTIDIANO</p>
 
 <div class="links">
-    <a href="https://youtube.com" target="_blank">YOUTUBE</a>
+    <a href="https://youtube.com/@unalequotidiano?si=EJyojAdqojnBCHbJ" target="_blank">YOUTUBE</a>
     <a href="https://instagram.com" target="_blank">INSTAGRAM</a>
     <a href="https://tiktok.com" target="_blank">TIK TOK</a>
     <a href="https://discord.com" target="_blank">DISCORD</a>
